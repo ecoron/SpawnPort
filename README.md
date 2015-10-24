@@ -1,7 +1,7 @@
 #SpawnPort
 
 A @PocketMine MCPE server plugin. Allows player teleporting to the worldspawn.
-For mcpe 01.11.1 / 0.12.1 api 1.12.0 / 1.13.0 
+For mcpe 0.11.1 / 0.12.1 api 1.12.0 / 1.13.0 
 
 ##Download and Install
 
