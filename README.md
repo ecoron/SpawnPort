@@ -1,15 +1,14 @@
 #SpawnPort
 
 A @PocketMine MCPE server plugin. Allows player teleporting to the worldspawn.
-For mcpe 0.12.1 with api 1.13.0 
+For mcpe 01.11.1 / 0.12.1 api 1.12.0 / 1.13.0 
 
 ##Download and Install
 
 Download the SpawnPort.phar
 
-### [Download: SpawnPort_v0.1.phar](https://s3-eu-west-1.amazonaws.com/devron/SpawnPort_v0.1.phar)
+### [Download: SpawnPort.phar](https://s3-eu-west-1.amazonaws.com/devron/SpawnPort.phar)
 
-rename it from SpawnPort_v0.1.phar to SpawnPort.phar
 
 and copy the file into your plugins folder.
 
